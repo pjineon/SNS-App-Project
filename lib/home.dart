@@ -22,10 +22,6 @@ class _MyHomePageState extends State<MyHomePage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             Text('Hello'),
-            Divider(
-              height: 100.0,
-              thickness: 5,
-            )
           ],
         ),
 
